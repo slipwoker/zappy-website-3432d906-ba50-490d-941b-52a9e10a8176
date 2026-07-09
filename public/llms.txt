@@ -1,0 +1,108 @@
+# UnR Accessories — Generative Engine Optimization Map
+
+> UnR Accessories is a jewelry brand seeking a modern online presence. The brand name 'UnR' suggests a contemporary, edgy, and possibly unconventional identity within the accessories space.
+
+---
+
+## Pages
+
+### Home
+https://unr-accessories-3432d906.zappy5.app
+Discover UnR Accessories, where edgy meets elegant. Explore our unconventional jewelry and accessories inspired by iconic chanel costume jewelry earrings. Start your style revolution today.
+
+### Bridal & Gifts
+https://unr-accessories-3432d906.zappy5.app/bridal-gifts
+Curate a bridal look that breaks tradition. Shop our unique collection rivaling kendra scott bridal jewelry and chanel costume jewelry for gifts that captivate. Find your forever sparkle.
+
+### Atelier Story
+https://unr-accessories-3432d906.zappy5.app/atelier-story
+Step into the UnR atelier where chaos meets craftsmanship. See how we forge pieces that rival chanel costume jewelry earrings and redefine modern luxury. Join our creative rebellion.
+
+### Lookbook
+https://unr-accessories-3432d906.zappy5.app/lookbook
+Immerse yourself in our lookbook, a visual manifesto of edgy elegance. Discover how to style pieces inspired by chanel costume jewelry and kendra scott bridal jewelry. Get the look now.
+
+### Contact
+https://unr-accessories-3432d906.zappy5.app/contact
+Ready to redefine your accessory game? Contact UnR Accessories for bespoke pieces that rival chanel costume jewelry earrings and elevate your look. Let&#39;s make a statement together.
+
+### Products
+https://unr-accessories-3432d906.zappy5.app/products
+Our Products - UnR Accessories
+
+### Cart
+https://unr-accessories-3432d906.zappy5.app/cart
+Your Cart
+
+### Checkout
+https://unr-accessories-3432d906.zappy5.app/checkout
+Checkout
+
+### Login
+https://unr-accessories-3432d906.zappy5.app/login
+Customer Login
+
+### Account
+https://unr-accessories-3432d906.zappy5.app/account
+My Account
+
+### Order Success
+https://unr-accessories-3432d906.zappy5.app/order-success
+Thank you for your order
+
+### Product Detail
+https://unr-accessories-3432d906.zappy5.app/product/:slug
+Product Details - UnR Accessories
+
+### Category
+https://unr-accessories-3432d906.zappy5.app/category/:slug
+Products - UnR Accessories
+
+### Thank You | UnR Accessories
+https://unr-accessories-3432d906.zappy5.app/thank-you
+Thank you for contacting UnR Accessories. Your message has been received and our team will respond shortly.
+
+## Legal & Policy
+
+### Privacy Policy
+https://unr-accessories-3432d906.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://unr-accessories-3432d906.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://unr-accessories-3432d906.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About UnR Accessories
+UnR Accessories is a jewelry brand seeking a modern online presence. The brand name 'UnR' suggests a contemporary, edgy, and possibly unconventional identity within the accessories space.
+
+## Target Audience
+- Eco-Conscious Fashionistas
+- Affluent Gift Givers
+- Bridal Jewelry Seekers
+
+## Industry
+Jewelry & Accessories
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://unr-accessories-3432d906.zappy5.app/sitemap.xml
+- Robots: https://unr-accessories-3432d906.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://unr-accessories-3432d906.zappy5.app/llms-full.txt
+- Products (JSON): https://unr-accessories-3432d906.zappy5.app/products.json
+- Products (Google Merchant RSS): https://unr-accessories-3432d906.zappy5.app/product-feed.xml
